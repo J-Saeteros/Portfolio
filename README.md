@@ -1,2 +1,2 @@
 # Portfolio
-A portfolio website that showcases my experiences, porjects, and skills
+A portfolio website that showcases my experiences, projects, and skills
